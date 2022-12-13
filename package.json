@@ -1,8 +1,8 @@
 {
   "name": "stest-net",
-  "description": "Speedtest.net client",
-  "author": "Han de Boer",
-  "version": "2.2.0",
+  "description": "Speedtest.net client fork",
+  "author": "Alejandro Moreno",
+  "version": "2.2.1",
   "bin": "bin/index.js",
   "main": "index.js",
   "repository": {
